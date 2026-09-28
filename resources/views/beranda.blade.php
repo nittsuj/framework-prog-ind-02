@@ -104,7 +104,7 @@
                 </div>
                 <div class="meta">
                     <dt class="meta__label">Framework</dt>
-                    <dd class="meta__value mb-0">Laravel 12</dd>
+                    <dd class="meta__value mb-0">Laravel 13</dd>
                 </div>
                 <div class="meta">
                     <dt class="meta__label">Tampilan</dt>
